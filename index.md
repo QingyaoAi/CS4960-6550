@@ -1,6 +1,6 @@
 # *Introduction to Information Retrieval*
 
-Class Hours: Monday/Wednesday 8:05-9:25am, Zoom Link on Canvas
+Class Hours: Monday/Wednesday 8:05-9:25am, IVC (Zoom Link on Canvas)
 
 ## Instructor
 
