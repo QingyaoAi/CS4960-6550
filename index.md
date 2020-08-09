@@ -1,6 +1,6 @@
 # *Introduction to Information Retrieval*
 
-Class Hours: Monday/Wednesday 8:05-9:25am, SFEBB 3170
+Class Hours: Monday/Wednesday 8:05-9:25am, Zoom Link on Canvas
 
 ## Instructor
 
