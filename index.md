@@ -2,6 +2,8 @@
 
 Class Hours: Monday/Wednesday 8:05-9:25am, IVC (Zoom Link on Canvas)
 
+Note that CS4960 and CS6550 have been cross-listed on Canvas as __CS 6550-001__.
+
 ## Instructor
 
 <a href="http://aiqingyao.org">Qingyao Ai</a>
@@ -34,9 +36,12 @@ The grade will count the assessments using the following proportions (tentative 
   * Project Report (10%)
   * Final Presentation (15%)
 * __15%__ of your grade will be determined by the paper presentation. 
-*	__15%__ of your grade will be determined by Assignment 1.
-* __15%__ of your grade will be determined by Assignment 2.
-*	__15%__ of your grade will be determined by Assignment 3.
+*	__10%__ of your grade will be determined by Assignment 1.
+*	__5%__ of your grade will be determined by Lab 1.
+* __10%__ of your grade will be determined by Assignment 2.
+* __5%__ of your grade will be determined by Lab 2.
+*	__10%__ of your grade will be determined by Assignment 3.
+*	__5%__ of your grade will be determined by Lab 3.
 *	__5%__ of your grade will be determined by your participation. Students who finish the class project, the paper presentation, and all assignments will receive the full credits of participation. 
 
 ## Tentative Class Schedule
