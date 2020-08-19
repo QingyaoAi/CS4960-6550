@@ -48,7 +48,7 @@ The grade will count the assessments using the following proportions (tentative 
 * __5%__ of your grade will be determined by Lab 2.
 *	__10%__ of your grade will be determined by Assignment 3.
 *	__5%__ of your grade will be determined by Lab 3.
-*	__5%__ of your grade will be determined by your participation. Students who finish the class project, the paper presentation, and all assignments will receive the full credits of participation. 
+*	__5%__ of your grade will be determined by your participation. Students who finish the class project peer reviews, the paper presentation, and all assignments/labs will receive the full credits of participation. 
 
 ## Tentative Class Schedule
 
