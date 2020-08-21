@@ -1,6 +1,6 @@
 # *Introduction to Information Retrieval*
 
-Class Hours: Monday/Wednesday 8:05-9:25am, IVC (Zoom Link on Canvas)
+Class Hours: Monday/Wednesday 8:05am-9:25am, IVC (Zoom Link on Canvas)
 
 Note that CS4960 and CS6550 have been cross-listed on Canvas as __CS 6550-001__.
 
