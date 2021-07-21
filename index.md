@@ -8,7 +8,7 @@ Note that CS4960 and CS6550 have been cross-listed on Canvas as __CS 6550-001__.
 
 <a href="http://aiqingyao.org">Qingyao Ai</a>
 
-Office Hours: Monday 10:30am-11:30am, MEB 2172
+Office Hours: Wednesday 10:30am-11:30am, MEB 2172
 
 <!--## Student Feedback
 
