@@ -4,6 +4,14 @@ Class Hours: Monday/Wednesday  3:00pm-4:20pm, AEB 320
 
 Note that CS4960 and CS6550 have been cross-listed on Canvas as __CS 6550-001__.
 
+__*University leadership has urged all faculty, students, and staff to model the vaccination, testing, and masking behaviors we want to see in our campus community.*__
+These include:
+* __Vaccination__
+* __Masking indoors__
+* __If unvaccinated, getting weekly asymptomatic coronavirus testing__
+
+More information can be found below.
+
 ## Instructor
 
 <a href="http://aiqingyao.org">Qingyao Ai</a>
@@ -76,3 +84,29 @@ Week 17, 12/13 - 12/17 | __&#9642; Class Ended__ | __Project Final Report Due (1
 ## Acknowledgements
 Special thanks to Prof. Jiepu Jiang from Virginia Tech University, Prof. Yongfeng Zhang from Rutgers University, Prof. James Allan and Prof. Hamed Zamani from University of Massachusetts Amherst.
 Some teaching materials are borrowed from their courses on CS656: Information Retrieval and CS691: Recommender System.
+
+
+## Vaccination
+
+* Get a COVID-19 vaccination if you have not already done so. Vaccination is proving highly effective in preventing severe COVID-19 symptoms, hospitalization and death from coronavirus. Vaccination is the single best way to stop this COVID resurgence in its tracks.
+Many in the campus community already have gotten vaccinated: (1) More than 80% of U. employees (2) Over 70% of U. students 
+* Visit http://mychart.med.utah.edu/, http://alert.utah.edu/covid/vaccine , or http://vaccines.gov/ to schedule your vaccination.
+
+## Masking
+
+* While masks are no longer required outside of Health Sciences facilities, UTA buses and campus shuttles, CDC guidelines now call for everyone to wear face masks indoors.
+* Check the CDC website periodically for masking updateshttps://www.cdc.gov/coronavirus/2019-ncov/vaccines/fully-vaccinated-guidance.html Treat masks like seasonal clothing (i.e. during community surges in COVID transmission, masks are strongly encouraged indoors and in close groups outside).
+
+## Testing
+
+* If you are not yet vaccinated, get weekly asymptomatic coronavirus tests. This is a helpful way to protect yourself and those around you because asymptomatic individuals can unknowingly spread the coronavirus to others.
+* Asymptomatic testing centers are open and convenient: Online scheduling Saliva test (no nasal swabs) Free to all students returning to campus (required for students in University housing) Results often within 24 hours Visit alert.utah.edu/covid/testing
+* Remember: Students must self-report if they test positive for COVID-19 via this website: https://coronavirus.utah.edu/.
+
+## Student Mental Health Resources
+
+* Rates of burnout, anxiety, depression, isolation, and loneliness have noticeably increased during the pandemic. If you need help, reach out for campus mental health resources, including counseling, trainings and other support.
+* Consider participating in a Mental Health First Aid or other wellness-themed training provided by our Center for Student Wellness and sharing these opportunities with your peers, teaching assistants and department colleagues.
+
+
+
