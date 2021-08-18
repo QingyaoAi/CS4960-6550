@@ -16,7 +16,7 @@ More information can be found below.
 
 <a href="http://aiqingyao.org">Qingyao Ai</a>
 
-Office Hours: Wednesday 10:30am-11:30am, MEB 2172
+Office Hours: Wednesday 10:30am-11:30am, MEB 2172 (hallway)
 
 <!--## Student Feedback
 
@@ -26,7 +26,7 @@ Office Hours: Wednesday 10:30am-11:30am, MEB 2172
 
 Tao Yang
 
-Office Hours: TO BE ASSIGNED
+Office Hours: Thursday 2:00pm-3:00pm, MEB 3159
 
 ## Prerequisites
 
