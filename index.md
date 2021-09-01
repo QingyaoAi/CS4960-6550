@@ -82,7 +82,7 @@ Week 16, 12/06 - 12/10 | __&#9642; Class Project Final Presentation (1)__<br />T
 Week 17, 12/13 - 12/17 | __&#9642; Class Ended__ | __Project Final Report Due (12/18)__
 
 ## Acknowledgements
-Special thanks to Prof. Jiepu Jiang from Virginia Tech University, Prof. Yongfeng Zhang from Rutgers University, Prof. James Allan and Prof. Hamed Zamani from University of Massachusetts Amherst.
+Special thanks to Prof. Jiepu Jiang from University of Wisconsin-Madison, Prof. Yongfeng Zhang from Rutgers University, Prof. James Allan and Prof. Hamed Zamani from University of Massachusetts Amherst.
 Some teaching materials are borrowed from their courses on CS656: Information Retrieval and CS691: Recommender System.
 
 
